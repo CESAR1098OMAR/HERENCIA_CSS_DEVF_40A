@@ -1,0 +1,96 @@
+/* General */
+
+* {
+    box-sizing: border-box;
+}
+
+body{
+    background-color: black;
+}
+
+#mailing{
+    background-color: white;
+    margin: 0 auto;
+    width: 600px;
+    height: auto;
+}
+
+p{
+    font-family: "Parkinsans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-size: 13px;
+}
+
+h4{
+    font-family: "Borel", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 15px;
+}
+
+/* Header*/
+header{
+    width: 100%;
+    height: 200px;
+}
+
+#haker{
+    width: 100%;
+    height: 90%;
+}
+
+#devf{
+    text-align: center;
+    background-color: rgb(54, 11, 93);
+    width: 100%;
+    height: 10%;
+}
+
+/* Main */
+main {
+    padding: 30px 15px 20px;
+    text-align: center;
+}   
+
+main div{
+    display: inline-block;
+    height: auto;
+    width: 49%;
+}
+
+main div article img{
+    width: 260px;
+    height: 250px;
+}
+
+main div article button{
+    border: none white 0;
+    background-color: white;
+}
+
+main div article button a{
+    color: rgba(123, 145, 255, 1);
+    text-decoration: none;
+
+}
+
+main div article p{
+    text-align: left;
+}
+
+/* Footer */
+footer{
+    padding-top: 11px;
+    padding-bottom: 11px;
+    background-color: rgb(54, 11, 93);
+}
+
+.derechos{
+    color: white;
+}
+
+footer p{
+    text-align: center;
+}
